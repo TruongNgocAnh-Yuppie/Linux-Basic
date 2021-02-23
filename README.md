@@ -1,1 +1,2 @@
-# Linux---Distro-Linux-
+# Tổng quan về hệ điều hành LINUX
+
