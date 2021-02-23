@@ -1,7 +1,13 @@
 # Linux---Distro-Linux-
+
+# Mục lục
+* [1. Giới thiệu về hệ điều hành Linux] ( #1) 
+---
+<a name = '1'></a>
 ### 1. Giới thiệu về hệ điều hành Linux
 - Hệ điều hành Linux được phát triển dựa vào hệ điều hành Unix và được phát hành miễn phí. 
 - Là một hệ điều hành mã nguồn mở nên có thể tùy chỉnh theo nhu cầu thực tế của mình. Và các nhà phát triển (developer) đã xây dựng hệ điều hành với nhân Linux làm lõi (kernel) và tạo ra các phiên bản Linux hay chính là Distro Linux
+
 ### 2. Phân loại các Distro Linux
 - Có rất nhiều cách phân loại như: mục đích sử dụng, kinh nghiệm làm việc với hệ điều hành, giao diện, .... Vì hệ điều hành này có nhiều phiên bản nên ta sẽ đi theo quá trình phát triển và định hướng riêng. 
   - 2.1: Debian
@@ -21,7 +27,8 @@
       -  Đây là nhóm các bản phân phối thương mại. Thường dùng trên máy chủ hoặc máy trạm, dành cho các doanh nghiệp. 
    - 2.4: Nhóm các phân phối dành cho máy cấu hình thấp:
       - Các bản phân phối tiêu biểu: Tiny Core, SparkyLinux, antiX, Bodhi Linux, LXLE, etc. .
-      - Điểm chung của các bản phân phối này: Nhẹ, phù hợp các với máy client(desktop) có cấu hình thấp.      
+      - Điểm chung của các bản phân phối này: Nhẹ, phù hợp các với máy client(desktop) có cấu hình thấp.
+      
 ### 3. Hệ điều hành Linux hiện nay
   - Vì hệ điều hành không phải chi trả bất kì khoản phí nào nên được các nhà phát triển ưu tiên, chọn lựa và đóng góp vào cộng đồng. 
   - Nhà cung cấp cũng đang hết sức cố gắng cải thiện các bản phân phối và cập nhật theo chu kỳ 6tháng/lần, để người sử dụng có những cảm nhận tốt nhất.
