@@ -13,7 +13,8 @@
 * [Tham khảo](#tk)
 
 ---
-- !<img src="https://imgur.com/HP9sHbq"> 
+- [Shell Scripting Bash](https://user-images.githubusercontent.com/79433103/109039264-2d14ad80-76ff-11eb-8c4c-b04e9103ae42.jpg)
+
 
 <a name = '1'></a>
 ## 1. Shell Linux là gì ?
