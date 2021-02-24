@@ -13,7 +13,7 @@
 * [Tham khảo](#tk)
 
 ---
-- <img src="https://imgur.com/HP9sHbq"> 
+- !<img src="https://imgur.com/HP9sHbq"> 
 
 <a name = '1'></a>
 ## 1. Shell Linux là gì ?
