@@ -61,7 +61,7 @@
 |tail| show ra 10 dòng cuối cùng của file|
 
 <a name = 'tk'></a>
-
+## Tham Khảo
 [1.](https://quantrimang.com/linux-shell-la-gi-cac-linux-shell-pho-bien-nhat-174496)
 
 [2. Giáo trình LPIC1]
