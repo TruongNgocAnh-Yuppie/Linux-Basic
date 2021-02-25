@@ -49,7 +49,7 @@
    - [option] là cách câu lệnh được thực thi hoạc cách câu lệnh được diễn giải
    - [argument] là đối tượng mà ta muốn đề cập 
  
-  **Lưu ý: những phần trong dấu [] có thể bỏ trống và câu lệnh vẫn được thực thi 
+  **Lưu ý: những phần trong dấu [] có thể bỏ trống và câu lệnh vẫn được thực thi**
    
 #### Bảng câu lệnh hay gặp
 |Dòng lệnh|Tác dụng|
