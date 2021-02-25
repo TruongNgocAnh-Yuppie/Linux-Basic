@@ -54,9 +54,17 @@
 #### Bảng câu lệnh hay gặp
 |Dòng lệnh|Tác dụng|
 |---------|--------|
+|ls -a|Hiện thị các file cấu hình ẩn|
+|ls -h|Thêm các trường đơn vị 
+|ls -l|Hiển thị đầy đủ thông tin của file|
+|ls -t|Liệt kê theo thời gian|
+
+![lenh ls](https://user-images.githubusercontent.com/79433103/109109862-a85e7980-7768-11eb-9056-97e22706c922.png)
+
+|Dòng lệnh|Tác dụng|
+|---------|--------|
 |pwd| (print working directory) cho biết người dùng đang làm việc tại thư mục nào|
 |cd| thay đổi vị trí sang thư mục khác|
-|ls| liệt kê nội dung thư mục đang làm việc|
 |cat| sử dụng để xem các file không quá dài|
 |head| show ra 10 dòng đầu tiên của file|
 |tail| show ra 10 dòng cuối cùng của file|
